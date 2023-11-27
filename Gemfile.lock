@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rexml (3.2.6)
+    rss (0.2.9)
+      rexml
+    sqlite3 (1.6.9-arm64-darwin)
+    terminal-notifier (2.0.0)
+
+PLATFORMS
+  arm64-darwin-22
+
+DEPENDENCIES
+  rss (~> 0.2.9)
+  sqlite3 (~> 1.6)
+  terminal-notifier (~> 2.0)
+
+BUNDLED WITH
+   2.4.20
